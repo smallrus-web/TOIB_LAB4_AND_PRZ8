@@ -21,3 +21,7 @@
 ![Screenshot_12](https://github.com/smallrus-web/TOIB_LAB4_AND_PRZ8/assets/71121962/2019b0dc-7cbf-41bf-8749-177bef601737)
 ## 7.Создаем подпись в формате ASCII
 ![Screenshot_13](https://github.com/smallrus-web/TOIB_LAB4_AND_PRZ8/assets/71121962/dca84773-9282-4bf7-9812-9666e4f50a92)
+## 8.Создаем подпись, вложенную в содержимое файла
+![Screenshot_14](https://github.com/smallrus-web/TOIB_LAB4_AND_PRZ8/assets/71121962/426fbcee-bfac-40a5-a7a3-11cf7ed6d759)
+![Screenshot_15](https://github.com/smallrus-web/TOIB_LAB4_AND_PRZ8/assets/71121962/0091ea46-3702-44b9-ae4e-6546de83c4c5)
+
