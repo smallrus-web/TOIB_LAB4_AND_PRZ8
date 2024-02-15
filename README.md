@@ -8,3 +8,4 @@
 ## 3.Создаем отзывающий сертификат.
 ![Screenshot_4](https://github.com/smallrus-web/TOIB_LAB4_AND_PRZ8/assets/71121962/025cdc19-115a-42a3-ab51-c70db5ff8556)
 ![Screenshot_4,5](https://github.com/smallrus-web/TOIB_LAB4_AND_PRZ8/assets/71121962/29cb1dc7-892f-4af9-9bd1-e512ca0098d6)
+## 4.Записываем только что созданный сертификат в файл.
