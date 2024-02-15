@@ -19,3 +19,5 @@
 ## 6.Создаем подпись в бинарном виде и проверям ее
 ![Screenshot_11](https://github.com/smallrus-web/TOIB_LAB4_AND_PRZ8/assets/71121962/75462429-3b89-4ff5-9209-8ee34da1bcff)
 ![Screenshot_12](https://github.com/smallrus-web/TOIB_LAB4_AND_PRZ8/assets/71121962/2019b0dc-7cbf-41bf-8749-177bef601737)
+## 7.Создаем подпись в формате ASCII
+![Screenshot_13](https://github.com/smallrus-web/TOIB_LAB4_AND_PRZ8/assets/71121962/dca84773-9282-4bf7-9812-9666e4f50a92)
