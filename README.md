@@ -11,6 +11,7 @@
 ## 4.Записываем сертификат в файл.
 ![Screenshot_5](https://github.com/smallrus-web/TOIB_LAB4_AND_PRZ8/assets/71121962/952aa2ca-cb56-4611-b50c-90b4efe945b4)
 ![Screenshot_6](https://github.com/smallrus-web/TOIB_LAB4_AND_PRZ8/assets/71121962/d5f44c91-284a-4d23-9c0e-78f33e86f459)
+## 5.Экспортируем публичный ключ в бинарный и текстовый вид
 ![Screenshot_7](https://github.com/smallrus-web/TOIB_LAB4_AND_PRZ8/assets/71121962/84c49114-8f12-457e-9fd1-c272bece388e)
 ![Screenshot_8](https://github.com/smallrus-web/TOIB_LAB4_AND_PRZ8/assets/71121962/c198b9ee-1f16-4f66-a6e5-822b4624f109)
 ![Screenshot_9](https://github.com/smallrus-web/TOIB_LAB4_AND_PRZ8/assets/71121962/0c8af688-8b84-4546-bc97-001efd9fc380)
