@@ -8,4 +8,11 @@
 ## 3.Создаем отзывающий сертификат.
 ![Screenshot_4](https://github.com/smallrus-web/TOIB_LAB4_AND_PRZ8/assets/71121962/025cdc19-115a-42a3-ab51-c70db5ff8556)
 ![Screenshot_4,5](https://github.com/smallrus-web/TOIB_LAB4_AND_PRZ8/assets/71121962/29cb1dc7-892f-4af9-9bd1-e512ca0098d6)
-## 4.Записываем только что созданный сертификат в файл.
+## 4.Записываем сертификат в файл.
+![Screenshot_5](https://github.com/smallrus-web/TOIB_LAB4_AND_PRZ8/assets/71121962/952aa2ca-cb56-4611-b50c-90b4efe945b4)
+![Screenshot_6](https://github.com/smallrus-web/TOIB_LAB4_AND_PRZ8/assets/71121962/d5f44c91-284a-4d23-9c0e-78f33e86f459)
+![Screenshot_7](https://github.com/smallrus-web/TOIB_LAB4_AND_PRZ8/assets/71121962/84c49114-8f12-457e-9fd1-c272bece388e)
+![Screenshot_8](https://github.com/smallrus-web/TOIB_LAB4_AND_PRZ8/assets/71121962/c198b9ee-1f16-4f66-a6e5-822b4624f109)
+![Screenshot_9](https://github.com/smallrus-web/TOIB_LAB4_AND_PRZ8/assets/71121962/0c8af688-8b84-4546-bc97-001efd9fc380)
+![Screenshot_10](https://github.com/smallrus-web/TOIB_LAB4_AND_PRZ8/assets/71121962/ab7dc972-6a58-4166-bf4e-9db57a423ef1)
+![Screenshot_11](https://github.com/smallrus-web/TOIB_LAB4_AND_PRZ8/assets/71121962/75462429-3b89-4ff5-9209-8ee34da1bcff)
